@@ -1,4 +1,3 @@
 <?php
-echo "Welcome to max line bot"
-?>
+echo "Welcome to max line bot";
 
